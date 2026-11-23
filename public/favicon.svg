@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="TJ's Debug Odyssey">
+  <title>TJ's Debug Odyssey</title>
+  <rect x="3" y="3" width="58" height="58" fill="#ffffff" stroke="#141716" stroke-width="4"/>
+  <path d="M22 14H26V18H22ZM38 14H42V18H38ZM26 18H38V22H42V26H46V38H42V42H38V46H34V42H30V46H26V42H22V38H18V26H22V22H26Z" fill="#141716"/>
+  <rect x="26" y="28" width="4" height="4" fill="#ffffff"/><rect x="34" y="28" width="4" height="4" fill="#ffffff"/>
+  <path d="M14 30H18M46 30H50M14 38H18M46 38H50" stroke="#141716" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter" fill="none"/>
+</svg>
